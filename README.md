@@ -2,6 +2,6 @@
 
 This repo will contain all projects in my journey to learn web development.
 
-## What we're doing
+## Multiplication Table
 
-Doing the work like always.
+A simple multpilication table that give the multiplication of any given number.
